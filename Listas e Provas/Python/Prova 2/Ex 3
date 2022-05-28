@@ -4,6 +4,8 @@
 # Para homens: (72.7 * altura) – 58
 # Para mulheres: (62.1 * altura) - 44.7
 
+# Na sequência, verifique se ela está no peso ideal, acima ou abaixo.
+
 altura = float(input('digite sua altura: '))
 peso = float(input('digite seu peso: '))
 sexo = input('digite seu sexo em m ou f: ')
