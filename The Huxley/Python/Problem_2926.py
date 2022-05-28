@@ -13,6 +13,6 @@ while True:
             else:
                 print('Tente Novamente!')
         else:
-            print('essa pessoa n�o indicou presentes!')   
+            print('essa pessoa nao indicou presentes!')   
     except:
         break
