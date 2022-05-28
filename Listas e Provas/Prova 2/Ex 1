@@ -1,0 +1,20 @@
+resposta = []
+
+print('Responda as perguntas com s ou n')
+
+resposta.append(input('Conhece a vítima do roubo?'))
+resposta.append(input('Esteve no local do roubo?'))
+resposta.append(input('Mora perto da vítima?'))
+resposta.append(input('A vítima lhe devia?'))
+resposta.append(input('Já trabalhou com a vítima?'))
+
+positiva = resposta.count('s')
+
+if positiva == 2:
+    print('Suspeita')
+elif positiva >= 3 and positiva <= 4:
+    print('Cúmplice')
+elif positiva == 5:
+    print('Ladrão')
+else:
+    print('Inocente')
