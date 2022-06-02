@@ -6,3 +6,9 @@ Divisão <br>
 Potência (x^n) <br>
 
 OBS.: os resultados de todas as operações devem ser números naturais!
+
+
+Atividade atribuida em aula, e realizada em grupo, composto por:<br>
+Lorenzo Mazzuli Marcelino<br>
+Lucas Pacheco<br>
+Anthony Kevin
