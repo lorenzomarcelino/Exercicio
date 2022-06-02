@@ -5,10 +5,12 @@ Multiplicação <br>
 Divisão <br>
 Potência (x^n) <br>
 
-OBS.: os resultados de todas as operações devem ser números naturais!
+OBS.: os resultados de todas as operações devem ser números naturais! <br>
+Utilize o pyTest <br>
+Implemente no mínimo 12 testes para a calculadora
 
 
-Atividade atribuida em aula, e realizada em grupo, composto por:<br>
+Atividade atribuída em aula, e realizada em grupo, composto por:<br>
 Lorenzo Mazzuli Marcelino<br>
 Lucas Pacheco<br>
 Anthony Kevin
