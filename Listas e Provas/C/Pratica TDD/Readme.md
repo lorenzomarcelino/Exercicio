@@ -5,5 +5,4 @@ Multiplicação
 Divisão
 Potência (x^n)
 
-
 OBS.: os resultados de todas as operações devem ser números naturais!
