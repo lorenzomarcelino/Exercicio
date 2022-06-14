@@ -1,4 +1,4 @@
-# (Funções e Tratamento de Exceções – 20 pontos) Faça um programa que receba
+# (Funções e Tratamento de Exceções) Faça um programa que receba
 # um valor em horas e dê duas opções ao usuário, converter em minutos ou em
 # segundos. A partir da escolha do usuário, o programa deverá chamar a função
 # específica de conversão. A função para converter horas em minutos deverá
